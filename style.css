@@ -1,0 +1,48 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'OpenSans', Verdana, sans-serif;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 0px;
+}
+header {
+background-color: rgb(51, 4, 51);
+}
+header {
+    color: cornsilk;
+    padding-left: 20px;
+}
+nav {
+background-color: burlywood;
+}
+main {
+background-color: cornsilk;
+flex-grow: 1;
+padding: 20px;
+}
+footer {
+background-color: darkgray;
+}
+p {
+    max-width: 650px;
+}
+li {
+    display: inline;
+    margin-right: 10px;
+}
+.column1of2 {
+    float: left;
+    width: 620px;
+    margin: 10px;
+}
+.column2of2 {
+    float: left;
+    width: 620px;
+    margin: 10px;
+}
