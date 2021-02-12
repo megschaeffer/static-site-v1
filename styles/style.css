@@ -15,14 +15,14 @@ header {
 background-color: rgb(51, 4, 51);
 }
 header {
-    color: cornsilk;
+    color: rgb(209, 207, 209);
     padding-left: 20px;
 }
 nav {
-background-color: burlywood;
+background-color: rgba(121, 80, 122, 0.815);
 }
 main {
-background-color: cornsilk;
+background-color: rgb(221, 218, 221;
 flex-grow: 1;
 padding: 20px;
 }
